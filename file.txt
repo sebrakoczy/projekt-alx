@@ -5,7 +5,5 @@ kolejna przerwa ok. 15:00
 ---
 kontakt do trenera:
 t.kaniecki@alx.pl
-test
-tomorrow
-today
+
 
