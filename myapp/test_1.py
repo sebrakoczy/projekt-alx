@@ -2,6 +2,10 @@ import unittest
 from unittest.mock import Mock, patch
 from myapp.calculator import Calculator
 from myapp.user_service import UserService
+from myapp.errors import UserNotFoundError
+
+import sys, os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..',)))
 
 class CalculatorTest(unittest.TestCase):
     def setUp(self):
