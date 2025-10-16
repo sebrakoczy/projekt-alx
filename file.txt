@@ -7,3 +7,5 @@ kontakt do trenera:
 t.kaniecki@alx.pl
 test
 tomorrow
+today
+
