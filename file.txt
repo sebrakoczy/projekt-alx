@@ -1,2 +1,3 @@
 informacja z pliku
+przerwa o 12:30
 koniec przerwy o 13:30
